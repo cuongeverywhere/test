@@ -17,5 +17,6 @@ git branch : show available branches and know which branch you are in
 git checkout -b  + name : tạo nhánh mới
 
 git reset --soft,mixed,hard
+git revert
 gitk : mở GUI
 working tree -> staging area -> local repository -> remote repository
