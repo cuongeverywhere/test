@@ -18,5 +18,7 @@ git checkout -b  + name : tạo nhánh mới
 
 git reset --soft,mixed,hard
 git revert
+
+.gitingore : thêm các file không muốn commit
 gitk : mở GUI
 working tree -> staging area -> local repository -> remote repository
