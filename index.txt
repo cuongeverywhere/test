@@ -1,4 +1,21 @@
+Ctrl +l = clear : clear command 
 git init
 git status
 git add 
 git commit
+
+git log
+git show
+git diff
+
+git checkout -- +name: discard the changes in working directory
+git reset -- +name: change status of file to untracked
+
+git merge: b1: git checkout master -> b2: git merge branch : sẽ gộp branch vào master
+bit branch -d + name: xóa branch 
+git branch : show available branches and know which branch you are in
+git checkout -b  + name : tạo nhánh mới
+
+git reset --soft,mixed,hard
+gitk : mở GUI
+working tree -> staging area -> local repository -> remote repository
