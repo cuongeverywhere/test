@@ -19,4 +19,4 @@ git checkout -b  + name : tạo nhánh mới
 git reset --soft,mixed,hard
 gitk : mở GUI
 working tree -> staging area -> local repository -> remote repository
-chào các bạn
+chào các bạns sss
